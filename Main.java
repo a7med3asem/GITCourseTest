@@ -15,5 +15,9 @@ public class Main{
 		
 		int subResult = Galal.sub(firstNum, secondNum);
 		System.out.println("Sub result is " + subResult);
+		
+		int mulResult = sayed.multiply(firstNum,secondNum);
+		System.out.println("mul result " + mulResult);
 	}
+
 }
