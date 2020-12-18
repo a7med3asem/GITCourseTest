@@ -18,6 +18,9 @@ public class Main{
 		
 		int mulResult = sayed.multiply(firstNum,secondNum);
 		System.out.println("mul result " + mulResult);
+
+		int addResult = asem.add(firstNum,secondNum);
+		System.out.println("mul result " + addResult);
 	}
 
 }
